@@ -1,2 +1,3 @@
-# backend
-this is backend python!
+# backend (의성 버스 시스템의 api)
+
+사이트에서 사용자가 출발지와 도착지를 선택하면 이 api에서 그 값에따라서 정보를 반환해준다.
